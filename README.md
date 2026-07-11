@@ -72,7 +72,7 @@ Please Refer Screenshots folder.
 
 ## Documentation
 
-The Software Requirements Specification (SRS) document is available in the **docs** folder.
+The Software Requirements Specification  document is available in the **docs** folder.
 
 ---
 
@@ -118,7 +118,7 @@ AI-Powered-Lead-Generation-System/
 
 **Mohan Ram**
 
-Computer Science Engineering Student At Ideal institute of technology kakinada.
+AI-ML Student At Ideal institute of technology kakinada.
 
 ---
 
