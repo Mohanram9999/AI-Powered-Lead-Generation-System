@@ -1,55 +1,127 @@
-Salesforce Lead Generation Flow
+# AI-Powered Lead Generation System using Salesforce Flow
 
-Overview
+## Overview
 
-This project demonstrates a Lead Generation automation built using Salesforce Flow Builder. The flow automates the process of capturing, validating, and managing lead information, reducing manual work and improving efficiency.
+This project demonstrates an AI-powered Lead Generation System developed using **Salesforce Flow Builder**. It automates the process of capturing, validating, and managing lead information, reducing manual effort and improving business efficiency.
 
-Objectives
+The project was completed as part of the **APSHE Short-Term Virtual Internship – Salesforce Certified Administrator with Agentforce Specialization**. It provided hands-on experience in Salesforce CRM automation and business workflow design.
 
-- Automate lead creation.
-- Improve the lead management process.
+---
+
+## Internship Details
+
+- **Internship:** APSHE Short-Term Virtual Internship
+- **Program:** Salesforce Certified Administrator with Agentforce Specialization
+- **Platform:** Salesforce Trailhead
+- **Project:** AI-Powered Lead Generation System
+
+---
+
+## Objectives
+
+- Automate the lead generation process.
 - Reduce manual data entry.
-- Increase workflow efficiency.
+- Improve lead management efficiency.
+- Demonstrate Salesforce Flow automation capabilities.
 
-Features
+---
 
-- Automated lead generation
-- Lead information validation
-- Record creation and updates
-- Business process automation
-- User-friendly Salesforce Flow
+## Features
 
-Tools & Technologies
+- Automated Lead Creation
+- Lead Information Validation
+- Business Process Automation
+- User-Friendly Salesforce Flow
+- Improved CRM Workflow
+- No-Code Automation
+
+---
+
+## Technologies Used
 
 - Salesforce CRM
 - Salesforce Flow Builder
-- Flow Automation
+- Agentforce Fundamentals
+- Salesforce Trailhead
+- Business Process Automation
 
-Workflow
+---
 
-1. User submits lead information.
-2. The flow validates the entered data.
-3. A Lead record is created in Salesforce.
-4. The flow completes the automation process.
+## Workflow
 
-Project Demo
+1. User enters lead information.
+2. Salesforce Flow validates the entered data.
+3. A Lead record is automatically created.
+4. The system processes the workflow.
+5. Lead information is stored in Salesforce CRM.
 
-Video Demonstration:
+---
+
+## Project Demonstration
+
+🎥 **Demo Video**
+
 https://drive.google.com/file/d/1oZgqTJtHvaaIYq2WN2WPP3L01H7HNmzi/view?usp=drivesdk
 
-Screenshots
+---
 
-Screenshots of the flow and output are available in the "screenshots" folder.
+## Screenshots
+Please Refer Screenshots folder.
 
-Learning Outcomes
+---
 
-This project helped me gain hands-on experience with:
+## Documentation
 
+The Software Requirements Specification (SRS) document is available in the **docs** folder.
+
+---
+
+## Learning Outcomes
+
+During this internship and project, I learned:
+
+- Salesforce Administration
 - Salesforce Flow Builder
-- CRM automation
-- Business process automation
-- No-code workflow design
+- CRM Automation
+- Business Process Automation
+- Lead Management
+- Agentforce Fundamentals
+- Workflow Design
+- No-Code Development
 
-Author
+---
 
-K.Mohan Ram.
+## Future Enhancements
+
+- Email Notifications
+- AI-based Lead Scoring
+- Automated Follow-up
+- Analytics Dashboard
+- Integration with External Applications
+
+---
+
+## Repository Structure
+
+```text
+AI-Powered-Lead-Generation-System/
+├── README.md
+├── screenshots/
+├── docs/
+│   └── Ai-Powered_LeadGeneration.pdf
+
+```
+
+---
+
+## Author
+
+**Mohan Ram**
+
+Computer Science Engineering Student At Ideal institute of technology kakinada.
+
+---
+
+## Acknowledgements
+
+Special thanks to **APSHE**, **Salesforce**, and **Salesforce Trailhead** for providing the opportunity to gain practical experience through the Salesforce Certified Administrator with Agentforce Specialization Virtual Internship.
