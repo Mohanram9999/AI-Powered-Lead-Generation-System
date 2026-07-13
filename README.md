@@ -1,127 +1,123 @@
 # AI-Powered Lead Generation System using Salesforce Flow
 
-## Overview
-
-This project demonstrates an AI-powered Lead Generation System developed using **Salesforce Flow Builder**. It automates the process of capturing, validating, and managing lead information, reducing manual effort and improving business efficiency.
-
-The project was completed as part of the **APSHE Short-Term Virtual Internship – Salesforce Certified Administrator with Agentforce Specialization**. It provided hands-on experience in Salesforce CRM automation and business workflow design.
+<p align="center">
+  <b>APSHE Short-Term Virtual Internship</b><br>
+  Salesforce Certified Administrator with Agentforce Specialization
+</p>
 
 ---
+
+## Project Overview
 
 ## Internship Details
 
-- **Internship:** APSHE Short-Term Virtual Internship
-- **Program:** Salesforce Certified Administrator with Agentforce Specialization
-- **Platform:** Salesforce Trailhead
-- **Project:** AI-Powered Lead Generation System
+## Problem Statement
 
----
+## Proposed Solution
 
 ## Objectives
 
-- Automate the lead generation process.
-- Reduce manual data entry.
-- Improve lead management efficiency.
-- Demonstrate Salesforce Flow automation capabilities.
+## Key Features
 
----
-
-## Features
-
-- Automated Lead Creation
-- Lead Information Validation
-- Business Process Automation
-- User-Friendly Salesforce Flow
-- Improved CRM Workflow
-- No-Code Automation
-
----
-
-## Technologies Used
-
-- Salesforce CRM
-- Salesforce Flow Builder
-- Agentforce Fundamentals
-- Salesforce Trailhead
-- Business Process Automation
-
----
+## System Architecture
 
 ## Workflow
 
-1. User enters lead information.
-2. Salesforce Flow validates the entered data.
-3. A Lead record is automatically created.
-4. The system processes the workflow.
-5. Lead information is stored in Salesforce CRM.
+## Technologies Used
 
----
+## Salesforce Components Used
+
+- Lead Object
+- Custom Fields
+- Record-Triggered Flow
+- Validation Rules
+- Profiles
+- Roles
+- Users
+- Prompt Builder
+- Agentforce
+- AI Summary Field
+- Lightning App
+- Reports
+
+## AI & Agentforce Integration
+
+## Business Benefits
+
+## Implementation Steps
+
+## Testing
+
+## Results
+
+## Screenshots
 
 ## Project Demonstration
 
-🎥 **Demo Video**
-
+**Demo Video**
+Click below 👇 
 https://drive.google.com/file/d/1U25804Kk4feYUzGfOyd0uMNtEuriGvhy/view?usp=drivesdk
 
----
+## Project Documentation
 
-## Screenshots
-Please Refer Screenshots folder.
-
----
-
-## Documentation
-
-The Software Requirements Specification  document is available in the **docs** folder.
-
----
+Software Requirements Specification  is available in the `docs` folder.
 
 ## Learning Outcomes
 
-During this internship and project, I learned:
-
 - Salesforce Administration
+- Salesforce CRM
 - Salesforce Flow Builder
+- Agentforce
+- Prompt Builder
 - CRM Automation
 - Business Process Automation
-- Lead Management
-- Agentforce Fundamentals
 - Workflow Design
-- No-Code Development
+- Validation Rules
+- Profiles & Roles
+- AI-powered Business Solutions
 
----
+## Challenges Faced
+
+- Designing record-triggered flows
+- Configuring validation rules
+- Testing automation
+- Understanding Salesforce security model
+- Integrating AI features
 
 ## Future Enhancements
 
-- Email Notifications
 - AI-based Lead Scoring
-- Automated Follow-up
+- Email Automation
+- WhatsApp Notifications
 - Analytics Dashboard
-- Integration with External Applications
+- External CRM Integration
+- Predictive Lead Conversion
 
----
+## Internship Highlights
+
+This project was successfully completed during the **APSHE Short-Term Virtual Internship** under the **Salesforce Certified Administrator with Agentforce Specialization** program. The internship provided hands-on experience in building real-world CRM automation solutions using Salesforce technologies.
 
 ## Repository Structure
 
 ```text
 AI-Powered-Lead-Generation-System/
 ├── README.md
-├── screenshots/
 ├── docs/
-│   └── Ai-Powered_LeadGeneration.pdf
+├── screenshots/
 
 ```
 
----
-
 ## Author
 
-**Mohan Ram**
+**K. Mohan Ram**
 
-AI-ML Student At Ideal institute of technology kakinada.
+Artificial Intelligence and Machine Learning Student
 
----
+Ideal Institute of Technology, Kakinada
 
 ## Acknowledgements
 
-Special thanks to **APSHE**, **Salesforce**, and **Salesforce Trailhead** for providing the opportunity to gain practical experience through the Salesforce Certified Administrator with Agentforce Specialization Virtual Internship.
+- APSHE
+- Salesforce
+- Salesforce Trailhead
+- Ideal Institute of Technology, Kakinada.
