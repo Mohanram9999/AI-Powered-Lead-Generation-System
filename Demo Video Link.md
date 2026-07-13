@@ -5,7 +5,7 @@ This folder contains the demonstration video of the **AI-Powered Lead Generation
 ## Demo Video
 
 Watch the complete project demonstration here:
-👉🔗 https://drive.google.com/file/d/1U25804Kk4feYUzGfOyd0uMNtEuriGvhy/view?usp=drivesdk
+👉 🔗 https://drive.google.com/file/d/1U25804Kk4feYUzGfOyd0uMNtEuriGvhy/view?usp=drivesdk
 
 ## Video Covers
 
