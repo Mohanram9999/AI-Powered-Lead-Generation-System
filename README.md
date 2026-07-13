@@ -1,4 +1,4 @@
-# AI-Powered Lead Generation System using Salesforce Flow
+# 🤖 AI-Powered Lead Generation System using Salesforce Flow & Agentforce
 
 <p align="center">
   <b>APSHE Short-Term Virtual Internship</b><br>
@@ -7,221 +7,475 @@
 
 ---
 
-## Project Overview
+# 📌 Project Overview
 
-## Internship Details
+The **AI-Powered Lead Generation System** is a CRM automation solution developed on the Salesforce platform to simplify and automate the lead management process. The system captures new leads, validates information, automatically categorizes records, generates AI-powered lead summaries using **Prompt Builder** and **Agentforce**, and provides actionable insights for sales teams.
 
-## Problem Statement
+The project demonstrates how Salesforce automation and Artificial Intelligence can improve business efficiency by reducing manual work, increasing data accuracy, and enabling faster decision-making.
 
-## Proposed Solution
+---
 
-## Objectives
+# 🎓 Internship Details
 
-## Key Features
+**Internship:** APSHE Short-Term Virtual Internship
 
-## System Architecture
+**Specialization:** Salesforce Certified Administrator with Agentforce Specialization
 
-## Workflow
+**Platform:** Salesforce Trailhead
 
-## Technologies Used
+**Project Type:** CRM Automation
 
-## Salesforce Components Used
+**Duration:** Summer Virtual Internship
 
+**Domain:** Salesforce CRM & Artificial Intelligence
+
+---
+
+# ❗ Problem Statement
+
+Many organizations still rely on manual processes for collecting and managing customer leads. These traditional methods often result in:
+
+- Duplicate lead records
+- Incomplete customer information
+- Slow lead assignment
+- Human errors
+- Poor follow-up process
+- Time-consuming data management
+
+Businesses require an intelligent and automated solution that can efficiently manage leads while providing AI-generated insights for better customer engagement.
+
+---
+
+# 💡 Proposed Solution
+
+The proposed solution is an AI-enabled Salesforce CRM application that automates the complete lead management process.
+
+The system:
+
+- Automatically creates lead records
+- Validates required information
+- Prevents duplicate or incorrect entries
+- Generates AI-powered lead summaries
+- Uses Salesforce Flow for automation
+- Provides reports for monitoring leads
+- Enables sales teams to respond faster
+
+---
+
+# 🎯 Objectives
+
+- Automate lead creation process
+- Improve lead data quality
+- Reduce manual effort
+- Generate AI-powered customer summaries
+- Increase sales productivity
+- Improve customer relationship management
+- Demonstrate Salesforce automation capabilities
+- Learn practical implementation of Agentforce and Prompt Builder
+
+---
+
+# ⭐ Key Features
+
+- Automated Lead Creation
+- Record-Triggered Salesforce Flow
+- AI-generated Lead Summary
+- Prompt Builder Integration
+- Agentforce AI Assistance
+- Validation Rules
+- Custom Fields
+- Secure User Access
+- Reports and Analytics
+- Lightning Experience Support
+
+---
+
+# 🏗️ System Architecture
+
+```
+Customer
+    │
+    ▼
+Lead Record Created
+    │
+    ▼
+Validation Rules
+    │
+    ▼
+Record Triggered Flow
+    │
+    ▼
+Prompt Builder
+    │
+    ▼
+Agentforce AI
+    │
+    ▼
+AI Summary Generated
+    │
+    ▼
+Sales Team Dashboard
+    │
+    ▼
+Reports & Analytics
+```
+
+---
+
+# 🔄 Workflow
+
+### Step 1
+Customer information is entered into Salesforce.
+
+↓
+
+### Step 2
+Lead record is created.
+
+↓
+
+### Step 3
+Validation Rules verify mandatory fields.
+
+↓
+
+### Step 4
+Record-Triggered Flow starts automatically.
+
+↓
+
+### Step 5
+Prompt Builder sends lead details to Agentforce.
+
+↓
+
+### Step 6
+Agentforce generates an AI summary.
+
+↓
+
+### Step 7
+The summary is saved inside the Lead record.
+
+↓
+
+### Step 8
+Sales users review the lead and take further action.
+
+---
+
+# 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|----------|
+| Salesforce CRM | Customer Relationship Management |
+| Salesforce Flow | Process Automation |
+| Agentforce | AI-powered Assistant |
+| Prompt Builder | AI Prompt Generation |
+| Lightning Experience | User Interface |
+| Reports & Dashboards | Data Analysis |
+| Validation Rules | Data Validation |
+| Custom Fields | Additional Business Information |
+
+---
+
+# ⚙️ Salesforce Components Used
+
+### Lead Object
+Stores customer lead information.
+
+### Custom Fields
+Captures additional business-specific information.
+
+### Record-Triggered Flow
+Automates lead processing.
+
+### Validation Rules
+Ensures accurate and complete data.
+
+### Profiles
+Controls user permissions.
+
+### Roles
+Defines organizational hierarchy.
+
+### Users
+Represents different Salesforce users.
+
+### Prompt Builder
+Creates AI prompts using lead information.
+
+### Agentforce
+Generates intelligent AI responses.
+
+### AI Summary Field
+Stores generated summaries.
+
+### Lightning App
+Provides an easy-to-use interface.
+
+### Reports
+Displays lead performance and analytics.
+
+---
+
+# 🤖 AI & Agentforce Integration
+
+Artificial Intelligence is integrated using **Salesforce Prompt Builder** and **Agentforce**.
+
+When a new lead is created:
+
+- Prompt Builder prepares a prompt using lead information.
+- Agentforce analyzes customer data.
+- AI generates a meaningful lead summary.
+- Summary is automatically stored inside Salesforce.
+- Sales representatives can quickly understand customer requirements without reading all details manually.
+
+---
+
+# 📈 Business Benefits
+
+- Faster lead processing
+- Reduced manual work
+- Improved productivity
+- Better customer understanding
+- Higher data accuracy
+- Consistent lead management
+- AI-assisted decision making
+- Better customer engagement
+- Scalable CRM solution
+
+---
+
+# 🚀 Implementation Steps
+
+1. Created Salesforce Developer Org.
+2. Configured Lead Object.
+3. Added Custom Fields.
+4. Created Validation Rules.
+5. Configured Profiles and Roles.
+6. Built Record-Triggered Flow.
+7. Integrated Prompt Builder.
+8. Configured Agentforce.
+9. Created AI Summary Field.
+10. Tested automation.
+11. Generated Reports.
+12. Validated complete workflow.
+
+---
+
+# 🧪 Testing
+
+The project was tested using multiple lead records.
+
+### Test Cases
+
+- New Lead Creation ✅
+- Mandatory Field Validation ✅
+- Flow Trigger Execution ✅
+- AI Summary Generation ✅
+- Prompt Builder Response ✅
+- Report Generation ✅
+- User Access Verification ✅
+
+---
+
+# 📊 Results
+
+The implemented solution successfully:
+
+- Automated lead creation
+- Eliminated repetitive manual tasks
+- Generated AI summaries automatically
+- Improved CRM efficiency
+- Reduced processing time
+- Enhanced user productivity
+- Demonstrated successful Salesforce AI integration
+
+---
+
+# 📷 Screenshots
+
+Include screenshots of:
+
+- Salesforce Dashboard
 - Lead Object
 - Custom Fields
-- Record-Triggered Flow
 - Validation Rules
-- Profiles
-- Roles
-- Users
+- Record Triggered Flow
 - Prompt Builder
 - Agentforce
 - AI Summary Field
-- Lightning App
 - Reports
+- Lightning App
 
-## AI & Agentforce Integration
+---
 
-## Business Benefits
+# 🎥 Project Demonstration
 
-## Implementation Steps
+### Demo Video
 
-## Testing
+👉 https://drive.google.com/file/d/1U25804Kk4feYUzGfOyd0uMNtEuriGvhy/view?usp=drivesdk
 
-## Results
+The demonstration explains:
 
-## Screenshots
+- Project overview
+- Salesforce setup
+- Lead creation
+- Flow execution
+- AI Summary generation
+- Reports
+- Final output
 
-## Project Demonstration
+---
 
-**Demo Video**
-Click below 👇 
-https://drive.google.com/file/d/1U25804Kk4feYUzGfOyd0uMNtEuriGvhy/view?usp=drivesdk
+# 📄 Project Documentation
 
-## Project Documentation
+The complete **Software Requirements Specification (SRS)** is available in the `docs/` folder.
 
-Software Requirements Specification  is available in the `docs` folder.
+Documentation includes:
 
-## Learning Outcomes
+- Introduction
+- Problem Statement
+- Functional Requirements
+- Non-functional Requirements
+- Use Case Diagram
+- Flow Design
+- Testing
+- Conclusion
+
+---
+
+# 📚 Learning Outcomes
+
+During this internship, I gained practical knowledge in:
 
 - Salesforce Administration
 - Salesforce CRM
-- Salesforce Flow Builder
-- Agentforce
+- Salesforce Objects
+- Flow Builder
+- Record Automation
 - Prompt Builder
-- CRM Automation
-- Business Process Automation
-- Workflow Design
+- Agentforce
+- AI Integration
+- Lightning Experience
 - Validation Rules
 - Profiles & Roles
-- AI-powered Business Solutions
+- CRM Best Practices
+- Business Process Automation
+- Report Generation
 
-## Challenges Faced
+---
 
-- Designing record-triggered flows
-- Configuring validation rules
-- Testing automation
-- Understanding Salesforce security model
-- Integrating AI features
+# ⚠️ Challenges Faced
 
-## Future Enhancements
+- Understanding Salesforce architecture
+- Designing complex Record-Triggered Flows
+- Configuring Validation Rules correctly
+- Managing Profiles and Roles
+- Learning Prompt Builder
+- Integrating Agentforce AI
+- Testing different automation scenarios
+- Debugging Flow execution
+
+---
+
+# 🚀 Future Enhancements
 
 - AI-based Lead Scoring
-- Email Automation
-- WhatsApp Notifications
-- Analytics Dashboard
+- Automatic Email Notifications
+- WhatsApp Integration
+- SMS Notifications
+- Predictive Analytics Dashboard
+- Einstein AI Integration
 - External CRM Integration
-- Predictive Lead Conversion
+- REST API Integration
+- Lead Assignment Automation
+- Mobile CRM Support
 
-## Internship Highlights
+---
 
-This project was successfully completed during the **APSHE Short-Term Virtual Internship** under the **Salesforce Certified Administrator with Agentforce Specialization** program. The internship provided hands-on experience in building real-world CRM automation solutions using Salesforce technologies.
+# 🏆 Internship Highlights
 
-## Repository Structure
+This project was successfully completed as part of the **APSHE Short-Term Virtual Internship** under the **Salesforce Certified Administrator with Agentforce Specialization** program.
+
+The internship provided hands-on experience in:
+
+- Salesforce Administration
+- CRM Automation
+- AI-powered Business Solutions
+- Workflow Automation
+- Agentforce
+- Prompt Builder
+- Real-world Business Process Implementation
+
+---
+
+# 📁 Repository Structure
 
 ```text
 AI-Powered-Lead-Generation-System/
+│
 ├── README.md
 ├── docs/
+│   ├── AI_Lead_Generation.pdf
+│
 ├── screenshots/
-
+│   ├── Dashboard.png
+│   ├── Lead Object.png
+│   ├── Flow Builder.png
+│   ├── Prompt Builder.png
+│   ├── Agentforce.png
+│   ├── Reports.png
+│
+└── demo/
+    └── Demo Video Link.txt
 ```
 
-## Author
+---
+
+# 👨‍💻 Author
 
 **K. Mohan Ram**
 
-Artificial Intelligence and Machine Learning Student
+Artificial Intelligence & Machine Learning Student
 
 Ideal Institute of Technology, Kakinada
 
-## Acknowledgements
+**Skills**
 
-- APSHE
+- Salesforce Administration
+- Salesforce Flow
+- Agentforce
+- Prompt Builder
+- AI Automation
+- CRM Solutions
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to:
+
+- APSHE (Andhra Pradesh State Council of Higher Education)
 - Salesforce
 - Salesforce Trailhead
+- Agentforce Team
 - Ideal Institute of Technology, Kakinada
+- Faculty Mentors
+- Internship Coordinators
 
-## Connect With Me
+---
 
-- LinkedIn: (Add your LinkedIn profile)
-- GitHub: (Add your GitHub profile)
-🎯 Sales reps focus on high-quality leads first, guided by AI-derived scoring
-🧹 Cleaner CRM data thanks to enforced validation rules
-📈 Better visibility for managers via reports/dashboards
-💰 Zero additional licensing cost — built entirely with native Salesforce/Agentforce tools already available in the org
-Implementation Steps
-Create custom fields on the Lead object: AI_Summary__c, Lead_Quality__c, Next_Best_Action__c
-Define Validation Rules for mandatory field enforcement (email format, phone presence, lead source required)
-Build a Prompt Builder template referencing relevant Lead fields
-Create a Record-Triggered Flow (Before Save / After Save) on the Lead object
-Add an Agentforce Prompt action inside the Flow to call the prompt template and capture its output
-Map the AI output to the custom fields via Flow assignment elements
-Configure Roles and Profiles to control visibility (Sales Rep vs Sales Manager)
-Build a Lightning App combining Lead list views, the AI Summary field, and key reports
-Create Reports and Dashboards for lead volume, source breakdown, and quality distribution
-Testing
-✅ Validated Flow trigger behavior on Lead creation and field updates
-✅ Verified Validation Rules correctly block incomplete/invalid lead submissions
-✅ Tested Prompt Builder output across leads with varying data completeness
-✅ Confirmed AI Summary and Lead Quality fields populate correctly and consistently
-✅ Verified role/profile-based visibility restrictions using multiple test user personas
-✅ Checked report and dashboard accuracy against sample lead data sets
-Results
-Leads are automatically enriched with an AI-generated summary within seconds of creation
-Data quality improved due to enforced validation at point of entry
-Sales managers gained a real-time dashboard view of lead health and volume
-Demonstrated a working, low-code, AI-augmented CRM automation pipeline suitable for small-to-mid sales teams
-Screenshots
-(Add screenshots of Flow Builder canvas, Prompt Builder template, Lead record with AI Summary field, Lightning App, and Dashboard here — place image files in the screenshots/ folder and reference them below.)
-Markdown
-Project Demonstration
-Demo Video
-Click below 👇
-https://drive.google.com/file/d/1U25804Kk4feYUzGfOyd0uMNtEuriGvhy/view?usp=drivesdk
-Project Documentation
-Software Requirements Specification is available in the docs folder.
-Learning Outcomes
-Salesforce Administration
-Salesforce CRM
-Salesforce Flow Builder
-Agentforce
-Prompt Builder
-CRM Automation
-Business Process Automation
-Workflow Design
-Validation Rules
-Profiles & Roles
-AI-powered Business Solutions
-Challenges Faced
-Designing record-triggered flows that fire reliably without recursion issues
-Configuring validation rules without blocking legitimate edge-case leads
-Testing automation across multiple Lead data scenarios (complete vs. partial data)
-Understanding and correctly applying Salesforce's security model (Profiles, Roles, sharing rules)
-Integrating Agentforce/Prompt Builder output cleanly into Flow field assignments
-Future Enhancements
-AI-based Lead Scoring using historical conversion data
-Email Automation for follow-up sequences
-WhatsApp Notifications for instant rep alerts
-Analytics Dashboard with deeper conversion funnel tracking
-External CRM Integration (e.g., syncing with third-party marketing tools)
-Predictive Lead Conversion modeling using Einstein/Agentforce
-Internship Highlights
-This project was successfully completed during the APSHE Short-Term Virtual Internship under the Salesforce Certified Administrator with Agentforce Specialization program. The internship provided hands-on experience in building real-world CRM automation solutions using Salesforce technologies.
-Repository Structure
-Text
-Author
-K. Mohan Ram
-Artificial Intelligence and Machine Learning Student
-Ideal Institute of Technology, Kakinada
-Acknowledgements
-APSHE
-Salesforce
-Salesforce Trailhead
-Ideal Institute of Technology, Kakinada
-Connect With Me
-LinkedIn: (Add your LinkedIn profile)
-GitHub: (Add your GitHub profile)
+# ⭐ Support
 
-```text
-AI-Powered-Lead-Generation-System/
-├── README.md
-├── docs/
-├── screenshots/
+If you found this project helpful:
 
-```
+- ⭐ Star this repository
+- 🍴 Fork the repository
+- 💡 Share your feedback
+- 🤝 Connect for collaboration
 
-## Author
+---
 
-**K. Mohan Ram**
-
-Artificial Intelligence and Machine Learning Student
-
-Ideal Institute of Technology, Kakinada
-
-## Acknowledgements
-
-- APSHE
-- Salesforce
-- Salesforce Trailhead
-- Ideal Institute of Technology, Kakinada.
+> **Built with Salesforce, Flow Builder, Prompt Builder, and Agentforce to demonstrate AI-powered CRM automation during the APSHE Salesforce Virtual Internship.**
