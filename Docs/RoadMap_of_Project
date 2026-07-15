@@ -1,79 +1,133 @@
-# 🚀 Implementation Roadmap
+# 🚀 Implementation
 
-| Phase | Time | Activities | Status |
-|------|------|------------|--------|
-| 1. Org Setup | 15 min | Created Salesforce Developer Org, enabled Agentforce and Flow | ✅ Completed |
-| 2. Lead Customization | 30 min | Added custom fields, validation rules, and updated Lead page layouts | ✅ Completed |
-| 3. Lightning App & Tabs | 20 min | Created Lightning App, added Leads tab, and configured navigation | ✅ Completed |
-| 4. Security Model | 30 min | Configured profiles, roles, and test users | ✅ Completed |
-| 5. Automation (Flow) | 45 min | Designed, tested, and activated the Record-Triggered Flow | ✅ Completed |
-| 6. AI Integration | 45 min | Configured Prompt Builder, integrated Agentforce, and mapped AI Summary field | ✅ Completed |
-| 7. Testing | 30 min | Tested lead creation, validation rules, AI summary generation, and user access | ✅ Completed |
-| 8. GitHub & Documentation | 45 min | Created GitHub repository, uploaded project files, and completed documentation | ✅ Completed |
-| 9. Final Review & Submission | 20 min | Verified project, reviewed documentation, and prepared final submission | ✅ Completed |
+This folder documents the implementation process of the **AI-Powered Lead Generation System using Salesforce Flow & Agentforce**.
 
 ---
 
-# 📋 Prerequisites
+# Overview
 
-- ✅ Salesforce Developer Edition Account
-- ✅ Agentforce Enabled
-- ✅ Salesforce Flow Builder
-- ✅ Prompt Builder Access
-- ✅ GitHub Account
-- ✅ Git (optional, recommended)
-- ✅ Google Chrome / Mozilla Firefox
+The project was implemented using Salesforce's declarative (low-code) tools to automate lead management. The implementation included configuring Salesforce objects, security, automation, AI integration, testing, and documentation.
 
 ---
 
-# ⚙️ Salesforce Features Used
+# Implementation Roadmap
 
-- ✅ Salesforce CRM
-- ✅ Lead Object
-- ✅ Custom Fields
-- ✅ Validation Rules
-- ✅ Record-Triggered Flow
-- ✅ Prompt Builder
-- ✅ Agentforce
-- ✅ AI Summary Field
-- ✅ Profiles & Roles
-- ✅ Lightning App
-- ✅ Reports & Dashboards
-
----
-
-# 📌 Suggested Git Commit History
-
-```bash
-git add .
-git commit -m "Phase 1: Salesforce org setup"
-
-git add .
-git commit -m "Phase 2: Lead customization and validation rules"
-
-git add .
-git commit -m "Phase 3: Lightning app configuration"
-
-git add .
-git commit -m "Phase 4: Security model implementation"
-
-git add .
-git commit -m "Phase 5: Record-triggered Flow automation"
-
-git add .
-git commit -m "Phase 6: Agentforce and Prompt Builder integration"
-
-git add .
-git commit -m "Phase 7: Testing and verification"
-
-git add .
-git commit -m "Phase 8: Documentation and GitHub repository"
-
-git add .
-git commit -m "Final project submission"
-```
+| Phase | Activities | Status |
+|--------|------------|--------|
+| Phase 1 | Salesforce Developer Org Setup | ✅ Completed |
+| Phase 2 | Lead Object Customization | ✅ Completed |
+| Phase 3 | Lightning App Configuration | ✅ Completed |
+| Phase 4 | Profiles, Roles & Users Configuration | ✅ Completed |
+| Phase 5 | Record-Triggered Flow Development | ✅ Completed |
+| Phase 6 | Prompt Builder & Agentforce Integration | ✅ Completed |
+| Phase 7 | Testing & Validation | ✅ Completed |
+| Phase 8 | Documentation & GitHub Repository | ✅ Completed |
 
 ---
 
-> **Project Status:** ✅ Successfully Completed  
-> **Internship:** APSHE Short-Term Virtual Internship – Salesforce Certified Administrator with  Ai Agentforce Specialization
+# Implementation Details
+
+## Phase 1 – Salesforce Org Setup
+
+- Created Salesforce Developer Edition Org
+- Configured Lightning Experience
+- Enabled Salesforce Flow
+- Enabled Agentforce
+- Enabled Prompt Builder
+
+---
+
+## Phase 2 – Lead Object Customization
+
+- Created Custom Fields
+- Configured Page Layout
+- Added Validation Rules
+- Updated Lead Record Page
+
+---
+
+## Phase 3 – Lightning App
+
+- Created Lightning App
+- Added Lead Tab
+- Configured Navigation Menu
+- Assigned User Access
+
+---
+
+## Phase 4 – Security Configuration
+
+- Created User Profiles
+- Configured Role Hierarchy
+- Created Test Users
+- Verified Record Access
+
+---
+
+## Phase 5 – Automation
+
+- Created Record-Triggered Flow
+- Configured Entry Conditions
+- Implemented Lead Automation
+- Activated Flow
+
+---
+
+## Phase 6 – AI Integration
+
+- Configured Prompt Builder
+- Connected Agentforce
+- Generated AI Lead Summary
+- Stored Summary in AI Summary Field
+
+---
+
+## Phase 7 – Testing
+
+The implementation was tested for:
+
+- Lead Creation
+- Validation Rules
+- Flow Automation
+- AI Summary Generation
+- User Access
+- Reports
+
+All tests passed successfully.
+
+---
+
+## Phase 8 – Documentation
+
+- Created GitHub Repository
+- Added Project Documentation
+- Uploaded Screenshots
+- Prepared README
+- Organized Project Files
+
+---
+
+# Tools Used
+
+- Salesforce CRM
+- Salesforce Flow Builder
+- Agentforce
+- Prompt Builder
+- Lightning Experience
+- GitHub
+
+---
+
+# Outcome
+
+The implementation successfully automated the lead management process using Salesforce Flow and Agentforce. The system validates lead information, executes workflow automation, generates AI-powered summaries, and provides reports for efficient lead management.
+
+---
+
+# Project Status
+
+**Status:** ✅ Successfully Implemented
+
+**Internship:** APSHE Short-Term Virtual Internship
+
+**Specialization:** Salesforce Certified Administrator with Agentforce Specialization
